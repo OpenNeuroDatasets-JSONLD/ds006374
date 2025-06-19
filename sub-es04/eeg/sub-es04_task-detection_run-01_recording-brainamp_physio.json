@@ -1,0 +1,10 @@
+{
+    "SamplingFrequency": 1000.0,
+    "StartTime": 0.695,
+    "Columns": [
+        "cardiac",
+        "respiratory",
+        "skinconductance",
+        "event_trigger"
+    ]
+}
